@@ -20,7 +20,7 @@ let rafidData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a Full Stack Web Developer fellow graduating from my one year bootcamp designed to help me become a Web Developer..",
+    "aboutme":"I am currently a Full Stack Web Developer fellow graduating from my one year bootcamp designed to help me become a Web Developer. As a banker, I realized a client's story is best told by their website. I want to help tell a clients story. In my spare time, I am an avid chess player and I enjoy hiking. ",
     "address":"Queens, NY",
     "website":"https://github.com/rafidhossain1995",
     "education":[
@@ -49,10 +49,10 @@ let rafidData = {
       },
      
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"These Are My Current Skills",
     "skills":[
       {
-        "skillname":"JavaScript"
+        "skillname":"JavaScript",
       },
       {
         "skillname":"HTML"
