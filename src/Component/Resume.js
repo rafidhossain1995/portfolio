@@ -25,6 +25,9 @@ const Resume = ()=>{
                       <li>
                       <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
                       </span><em>{item.skillname}</em>
+                      {/* <img src={`${item.imgurl}`} className="h"/> */}
+                      
+                      
                       </li>
                     )
                   })
