@@ -91,11 +91,11 @@ let rafidData = {
     ],
     "testimonials":[
       {
-        "description":"What a great developer",
+        "descriptions":"What a great developer",
         "name":"Corey Ladovsky"
       },
       {
-        "description":"Such a creative developer",
+        "descriptions":"Such a creative developer",
         "name":"Pursuit"
       }
     ]

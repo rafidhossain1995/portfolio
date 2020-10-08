@@ -15,15 +15,17 @@ const Portfolio = ()=>{
                                     <div className="item-wrap">
                                         <a href="#modal-01">
                                         <img src={`${item.imgurl}`}className="item-img" to="google.com"/>
-                                        <a href={item.link}>
+                                        <div href={item.link}>
+                                        <a href={item.link} target="_blank">
                                         <div className="overlay" link="google.com">
                                             <div className="portfolio-item-meta">
                                                 {/* <a href="google.com">{item.imgurl}</a> */}
                                                 <p>{item.description}</p>
                                             </div>
                                         </div>
-                                            
                                         </a>
+                                            
+                                        </div>
                                        
                                         </a>
                                     </div>
