@@ -239,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
 #resume {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   /* padding-bottom: 72px; */
    overflow: hidden;
 }
 
@@ -295,11 +295,20 @@ ul#nav li.current a { color: #F06000; }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
+   display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #2196F3; */
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
 }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	height: 42px;
+  	height: 1%;
   	border-radius: 3px;
 }
 .bars li em {
@@ -309,7 +318,8 @@ ul#nav li.current a { color: #F06000; }
 	font-weight: normal;
    position: relative;
    top: -36px;
-   ;
+   /* content: url("Frontend/build/images/Hike.jpg"); */
+   
 }
 .bar-expand {
    position: absolute;

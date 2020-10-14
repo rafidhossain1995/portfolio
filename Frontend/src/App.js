@@ -5,7 +5,8 @@ import NavBar from "../src/Component/NavBar"
 import About from "../src/Component/About"
 import Resume from "../src/Component/Resume"
 import Portfolio from "../src/Component/Portfolio"
-import ContactMe from "../src/Component/ContactMe"
+import MyForm from "../src/Component/MyForm"
+
 
 function App() {
   return (
@@ -14,9 +15,10 @@ function App() {
     <About/>
     <Resume/>
     <Portfolio/>
-    <ContactMe/>
+    {/* <MyForm/> */}
    </div>
   );
 }
 
 export default App;
+

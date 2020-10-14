@@ -1,12 +1,12 @@
 import React from "react"
 import rafidData from "../rafidData"
-
+import "../CSS/portfolio.css"
 const Portfolio = ()=>{
     return(
         <section id="portfolio">
             <div className="row">
                 <div className="twelve columns collapsed">
-                    <h1>These are some of my Projects. Check them out!</h1>
+                    <h1>These are some of my Projects as well as a link to my Resume. Check them out!</h1>
                     <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf"></div>
                     {
                         rafidData.portfolio && rafidData.portfolio.map((item)=>{
