@@ -3,7 +3,7 @@ import axios from "axios"
 import rafidData from "../rafidData"
 // const Mailto = require('react-mailto');
 import emailjs from "emailjs-com"
-import "../CSS/MyForm.css"
+import "../CSS/MyForm.css";
 
 const ContactUs =() => {
 
