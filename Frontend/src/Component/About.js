@@ -16,7 +16,7 @@ const About = ()=>{
                     }
                 </p>
         
-                <div className="row">
+                {/* <div className="row">
                     <div className="columns contact-details">
                         <h2>Contact Details</h2>
                         <p className="address">
@@ -29,7 +29,7 @@ const About = ()=>{
                     <span>{rafidData.website}</span>
        					   </p>
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     )

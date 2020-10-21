@@ -291,20 +291,23 @@ ul#nav li.current a { color: #F06000; }
 	width: 95%;
 	float: left;
 	padding: 0;
-	text-align: left;
+   text-align: left;
+   margin-left: -10%;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	/* margin-top: 36px;
    list-style: none;
    display: grid;
     /* grid-template-columns: auto auto auto; */
-    background-color: grey;
+   /* background-color: grey; */
     padding: 10px;
     /* background-color: rgba(255, 255, 255, 0.8); */
     /* border: 1px solid rgba(0, 0, 0, 0.8); */
-    padding: 20px;
+    /* padding: 20px;
     font-size: 30px;
-    text-align: center;
+    text-align: center; */ 
+    display: flex ;
+    margin-right: 50%;
 }
 .bars li {
    position: relative;

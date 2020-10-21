@@ -2,7 +2,51 @@
     color:  white;
     margin-top: 5%;
 }
+.h{
+    /* width: 45%; */
+    height: 50%;
+}
 
+.i{
+    width: 40%;
+    height: 50%;
+}
+
+.j{
+    width: 30%;
+    height: 50%;
+}
+
+.k{
+    width: 30%;
+    height: 50%;
+}
+.l{
+    height: 50%;
+}
+.m{
+    width: 45%;
+    height: 50%;
+}
+
+.n{
+    width: 40%;
+    height: 50%;
+}
+
+.o{
+    width: 40%;
+    height: 50%;
+}
+.skillz{
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    font-size: 3rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
 
 /* .several-skills{
     color: white;
