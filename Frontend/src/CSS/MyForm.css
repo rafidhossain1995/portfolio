@@ -1,0 +1,23 @@
+input[type="text"], input[type="password"], input[type="email"], textarea, select{
+    display: block;
+    padding: 18px 15px;
+    margin: 0 0 24px 0;
+    border: 0;
+    outline: none;
+    min-width: 100%;
+    max-width: 100%;
+    font-size: 15px;
+    line-height: 24px;
+    color: #647373;
+    background: #D3D9D9;
+    margin-top: 2%;
+}
+
+/* .lets-connect{
+    font-size: 38px;
+    line-height: 42px;
+    margin-bottom: 12px;
+    letter-spacing: -1px;
+    color: white;
+    margin-top: 2%;
+} */

@@ -1,11 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+// import { FormspreeProvider } from '@formspree/react';
 import NavBar from "../src/Component/NavBar"
 import About from "../src/Component/About"
-import Resume from "../src/Component/Resume"
+import Skills from "./Component/Skills"
 import Portfolio from "../src/Component/Portfolio"
-import MyForm from "../src/Component/MyForm"
+import Contact from "./Component/Contact"
 
 
 function App() {
@@ -13,9 +14,9 @@ function App() {
    <div>
     <NavBar/>
     <About/>
-    <Resume/>
+    <Skills/>
     <Portfolio/>
-    {/* <MyForm/> */}
+    <Contact/>
    </div>
   );
 }

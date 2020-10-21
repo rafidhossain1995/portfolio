@@ -584,7 +584,7 @@ input[type="checkbox"] { display: inline; }
    position: relative;
    padding: 0 20px;
    min-height: 1px;
-   float: left;
+   /* float: left; */
 }
 .column.centered, .columns.centered  {
     float: none;
@@ -607,7 +607,7 @@ input[type="checkbox"] { display: inline; }
 .row.collapsed > .columns,
 .column.collapsed, .columns.collapsed  { padding: 0; }
 
-[class*="column"] + [class*="column"]:last-child { float: right; }
+[class*="column"] + [class*="column"]:last-child { float: right; width:100%;}
 [class*="column"] + [class*="column"].end { float: right; }
 
 /* column widths */

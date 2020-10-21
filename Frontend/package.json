@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@formspree/react": "^2.2.2",
     "axios": "^0.20.0",
     "emailjs-com": "^2.6.3",
     "mailto": "^0.1.2",
