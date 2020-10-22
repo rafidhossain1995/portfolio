@@ -33,9 +33,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #0e0d0d url(../images/Rafid.jpg) no-repeat top center;
-   /* background-size: cover !important;
-   -webkit-background-size: cover !important; */
+   background: #0e0d0d url(../images/calm2.jpg) no-repeat top center;
+   /* background-size: cover !important; */
+   /* -webkit-background-size: cover !important;  */
 
    text-align: center;
    overflow: hidden;
@@ -57,7 +57,7 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { width: 100%; margin-bottom: 25%;  radial-gradient(black, transparent);}
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
@@ -90,6 +90,7 @@ header .social {
    font-size: 30px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
    margin-right: 5%;
+   margin-top: -2%;
 }
 header .social li {
    display: inline-block;
@@ -150,6 +151,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 ul#nav {
    min-height: 48px;
    width: auto;
+   background: black;
 
    /* center align the menu */
    text-align: center;

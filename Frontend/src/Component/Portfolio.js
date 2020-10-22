@@ -20,7 +20,7 @@ const Portfolio = ()=>{
                                         <div className="overlay" link="google.com">
                                             <div className="portfolio-item-meta">
                                                 {/* <a href="google.com">{item.imgurl}</a> */}
-                                                <p className="synopsis">{item.description}</p>
+                                                <h1 className="synopsis">{item.description}</h1>
                                             </div>
                                         </div>
                                         </a>

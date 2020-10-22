@@ -5,38 +5,46 @@
 .h{
     /* width: 45%; */
     height: 50%;
+    margin-right: 10%;
 }
 
 .i{
-    width: 40%;
+    /* width: 40%; */
     height: 50%;
+    margin-right: 10%;
 }
 
 .j{
-    width: 30%;
+    /* width: 30%; */
     height: 50%;
+    margin-right: 10%;
 }
 
 .k{
-    width: 30%;
+    /* width: 30%; */
     height: 50%;
+    margin-right: 10%;
 }
 .l{
     height: 50%;
+    margin-right: 10%;
 }
 .m{
-    width: 45%;
+    /* width: 45%; */
     height: 50%;
+    margin-right: 10%;
 }
 
 .n{
-    width: 40%;
+    /* width: 40%; */
     height: 50%;
+    margin-right: 10%;
 }
 
 .o{
-    width: 40%;
+    /* width: 40%; */
     height: 50%;
+    margin-right: 10%;
 }
 .skillz{
     display: flex;
