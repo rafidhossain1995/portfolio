@@ -1,7 +1,7 @@
 .item-wrap{
     margin-top: 36px;
     list-style: none;
-     display: grid; 
+     /* display: grid;  */
      grid-template-columns: auto auto auto; 
      background-color: #2196F3; 
      padding: 10px; 

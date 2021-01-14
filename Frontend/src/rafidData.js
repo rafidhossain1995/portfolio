@@ -16,7 +16,7 @@ let rafidData = {
         },
        
       ],
-    "aboutme":"Hi, I'm Rafid. After graduating from The University At Buffalo,  I spend 3 years working for Bank Of America.  I realized we are moving into a digital era and I wanted to transition my career to fit the needs of our current times. After months of research, I was accepted into a 12 month fellowship that taught me the skills to be a Fullstack Web Developer. I realized this was a field that combined the analytical and techincal skills I have learned throughout my career. A website helps tell a clients story, and I want to be able to create that story. When I'm not coding, I love to play chess, go hiking, and cook.",
+    "aboutme":"Hi, I'm Rafid. After graduating from The University At Buffalo,  I spent 3 years working for Bank Of America.  I realized that we are moving into a digital era and I wanted to transition my career to fit the needs of our current times. After months of research, I was accepted into a 12 month fellowship that taught me the skills to be a Fullstack Web Developer. I realized this was a field that combined the analytical and techincal skills I have learned throughout my career. A website helps tell a clients story, and I want to be able to create that story. When I'm not coding, I love to play chess, go hiking, and cook.",
     "address":"Queens, NY",
     "website":"https://github.com/rafidhossain1995",
     
