@@ -81,7 +81,8 @@ let rafidData = {
         "name":"Finstagram",
         "description": "A cloned application of world known Instagram. This app allows users to create an account and post their pictures while having the luxury of seeing their friends pictures as well.",
         "imgurl":"https://see.fontimg.com/api/renderfont4/YdKj/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/Rmluc3RhZ3JhbQ/countryside.png",
-        "link": "https://docs.google.com/document/d/1_ABXkBt8wnX3c2-dkMoOEwzkxNlpEI6Fo41JdAUNVDw/edit"
+        "link": "https://finstagram2021.netlify.app/login",
+        "git": "https://github.com/rafidhossain1995/portfolio"
       }
 
    
