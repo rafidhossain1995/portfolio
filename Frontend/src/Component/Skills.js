@@ -50,6 +50,24 @@ const Skills = ()=>{
                      <p>React</p>
 
                </div>
+
+               <div className="icon">
+               <img src="https://img.icons8.com/fluent/96/000000/visual-studio-code-insides.png" className="VS"/>
+                     <p>VS Code</p>
+
+               </div>
+
+               <div className="icon">
+               <img src="https://img.icons8.com/ultraviolet/96/000000/merge-git.png" className="git"/>
+                     <p>Git</p>
+
+               </div>
+
+               <div className="icon">
+               <img src="https://img.icons8.com/plasticine/96/000000/github.png" className="github"/>
+                     <p>Github</p>
+
+               </div>
                      {/* //add vscode, git and github */}
    				</div>
    			</div>
