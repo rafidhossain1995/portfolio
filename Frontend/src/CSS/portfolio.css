@@ -15,4 +15,18 @@
 .synopsis{
    font-size: x-large;
 }
+   .portfolio-links{
+      display: flex;
+       justify-content: space-around;
+   }
+
+
+
+
+   .portfolio-links{
+      display: flex;
+       justify-content: space-around;
+   }
+
+
 

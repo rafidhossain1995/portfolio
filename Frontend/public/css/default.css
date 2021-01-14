@@ -714,7 +714,7 @@ properly.
     margin: 0 auto;
     /* width: 100%; */
     display: inline-block;
-
+    width: 100%;
    }
    .row .row { width: auto; max-width: none; margin: 0 -30px; }
 

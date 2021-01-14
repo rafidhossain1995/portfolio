@@ -15,6 +15,8 @@ const About = ()=>{
                         rafidData.aboutme
                     }
                 </p>
+
+                <a className="my-resume" href="https://docs.google.com/document/d/1_ABXkBt8wnX3c2-dkMoOEwzkxNlpEI6Fo41JdAUNVDw/edit" className="fa fa-file"> Check Out My Resume </a>
         
                 {/* <div className="row">
                     <div className="columns contact-details">
